@@ -1,0 +1,65 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto';
+}
+
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.failure-image {
+  width: 70%;
+}
+
+.failure-heading {
+  color: #475569;
+  font-weight: 500;
+  font-size: 45px;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+.failure-para {
+  color: #64748b;
+  font-weight: 400;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.failure-retry-btn {
+  background-color: #4656a1;
+  border: 1px solid #4656a1;
+  border-radius: 5px;
+  color: #fff;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 10px;
+}
+
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.ul-tech-courses-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 30px;
+}
+
+.courses-heading {
+  color: #1e293b;
+  font-weight: bold;
+  font-size: 40px;
+  margin-bottom: 50px;
+  padding-left: 30px;
+  margin: 40px;
+}

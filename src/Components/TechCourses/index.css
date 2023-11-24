@@ -1,0 +1,25 @@
+.li-tech-courses {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
+.courses-list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 20px;
+  padding: 30px;
+}
+
+.course-logo {
+  width: 80px;
+}
+
+.course-name {
+  font-weight: bold;
+  font-size: 23px;
+  color: #1e293b;
+  margin-left: 10px;
+}
